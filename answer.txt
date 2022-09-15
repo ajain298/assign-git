@@ -1,0 +1,15 @@
+ANSWERS
+
+1. When a project is committed to the github repository, the files and folders to be ignored in the git project are specified by the gitignore file. For a java project, a gitignore file contains:
+   a) .classpath
+   b) .settings
+   c) .jar
+   d) .war
+   e) .idea
+   f) .iml
+
+2. A fast-forward merge in git is performed when there is linear trajectory from source to target branch. Git simply transfers pointer of source branch to pointer of target branch without the creation of an extra merge commit.
+
+3. Creating branches in Git helps all the developers of the respective project to develop new features or add changes to the software without affecting the main part of the project. It helps all of them to individually create their base code and later on merge their versions.
+
+4. In a project, we usually have one remote Git repository.
